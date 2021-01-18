@@ -11,11 +11,11 @@ The following step are specific of my set up on wsl.
 - have a look at the app at localhost:80
 
 ### Goal:
-the goal of this repo is for me to tinkering a bit with dash and docker-compose so needs to be considered a personal PoC. 
+the goal of this repo is for me to tinker a bit with dash and docker-compose. 
 
 ### What I learned/useful things: 
 - docker compose details and features
-- dash basic template with update for future needs
+- dash basic template with data refresh for future needs
 - docker compose networking (https://docs.docker.com/compose/networking/)
 
 ### What I would do differently in production:
